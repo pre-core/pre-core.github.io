@@ -36,6 +36,7 @@ layout: base
     {{ content }}
   </div>
 
+  {{ jekyll.environment }}
   {% if jekyll.environment == 'production' -%}
     {% if page.comments == false -%}
     <div class="comments-disabled-message">
