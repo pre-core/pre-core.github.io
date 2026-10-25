@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 前核的博客
-author: precore/前核
+author:
+  name: precore/前核
 description:
   前核的博客，
   也没什么特别的东西，赶时间别看
@@ -59,3 +60,5 @@ exclude:
    - vendor/gems/
    - vendor/ruby/
    - README.md
+   - ".#*"
+   - "*#"
