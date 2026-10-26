@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agents流行的当下，我们能否狙击QQ和微信"
-date: 2026-10-27 21:45:00 +0800
+date: 2026-10-26 21:45:00 +0800
 categories: AI Agents 智能体 IM聊天 QQ 微信
 ---
 
